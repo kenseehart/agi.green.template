@@ -1,0 +1,3 @@
+[submodule "agi.green"]
+	path = agi.green
+	url = git@github.com:kenseehart/agi.green.git
